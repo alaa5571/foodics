@@ -27,7 +27,7 @@
       temporary
       class="d-sm-none d-flex"
     >
-      <v-list nav dense>
+      <v-list nav dense flat>
         <v-list-item-group>
           <v-list-item
             v-for="(link, index) in links"
